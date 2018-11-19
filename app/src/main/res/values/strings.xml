@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Forex</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key"> fea399f5a622b09b5c22745e32aa7ab8</string>
+    <string name="api_entry_point"> http://data.fixer.io/api/</string>
 </resources>

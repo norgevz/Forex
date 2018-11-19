@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#F9F9F9</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="colorAccent">#009DE2</color>
+    <!--<color name="colorAccent">#50514F</color>-->
+    <color name="entry_hint_color">#CCC</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <!--<color name="app_orange">#F7931E</color>-->
+    <color name="app_orange">#FF9800</color>
+    <color name="app_toolbar">#D6192500</color>
+    <color name="app_background">#E0E0E0</color>
+
+
+
+    <color name="blue_filling">#e0e0ff</color>
+    <color name="blue_outline">#6060ff</color>
+    <color name="darker_grey">#404040</color>
+    <color name="grey">#c0c0c0</color>
+    <color name="grey_options_group">#a0a0a0</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="selected">#FAEFAA</color>
 </resources>
